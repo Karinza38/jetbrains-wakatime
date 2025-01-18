@@ -1,4 +1,4 @@
-# jetbrains-wakatime
+ # jetbrains-wakatime
 
 [![WakaTime in the JetBrains Marketplace](https://img.shields.io/jetbrains/plugin/v/7425-wakatime.svg?style=flat-square&color=167dff&label=marketplace)](https://plugins.jetbrains.com/plugin/7425-wakatime)
 [![WakaTime Installs](https://img.shields.io/jetbrains/plugin/d/7425-wakatime.svg?style=flat-square&color=167dff)](https://plugins.jetbrains.com/plugin/7425-wakatime)
